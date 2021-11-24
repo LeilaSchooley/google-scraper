@@ -1,0 +1,27 @@
+1637751532706	geckodriver	INFO	Listening on 127.0.0.1:53195
+1637751532720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37097" "-no-remote" "-profile" "/tmp/rust_mozprofileXKbioQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1637751536939	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXKbioQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37097/devtools/browser/c01311dd-3a7c-4692-8558-6a90435d0806
+1637751550893	Marionette	INFO	Listening on port 39219
+1637751551140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637751553698	Marionette	INFO	Stopped listening on port 39219
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1637751632774	geckodriver	INFO	Listening on 127.0.0.1:43101
+1637751632818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53513" "-no-remote" "-profile" "/tmp/rust_mozprofileveuf2k"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1637751636938	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileveuf2k/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53513/devtools/browser/8ba4e9be-4ee1-44e3-b0bc-c047857cc422
+1637751649760	Marionette	INFO	Listening on port 36463
+1637751649876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
